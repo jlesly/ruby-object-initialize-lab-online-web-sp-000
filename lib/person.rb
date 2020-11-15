@@ -3,4 +3,5 @@ class Person
     @name = persons_name
   end
   
-  def persons_name 
+  def name=(persons_name)
+    
