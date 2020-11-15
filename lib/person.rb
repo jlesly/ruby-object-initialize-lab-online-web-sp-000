@@ -3,4 +3,4 @@ class Person
     @name = persons_name
   end
   
-  def 
+  def persons_name 
